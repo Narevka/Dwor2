@@ -1,0 +1,351 @@
+{
+  "_meta": {
+    "source": "booking",
+    "sourceName": "Booking.com",
+    "sourceUrl": "https://www.booking.com/reviews/pl/hotel/dwor-bartnika.pl.html",
+    "lastUpdated": "2025-12-09",
+    "rating": 9,
+    "ratingMax": 10,
+    "totalReviews": 212,
+    "displayedReviews": 28,
+    "updatedBy": "auto-convert"
+  },
+  "reviews": [
+    {
+      "id": "booking-001",
+      "author": "Rybnik",
+      "authorInitials": "R",
+      "rating": 5,
+      "text": "Przyjazd służbowy na jedną dobę, ale śmiało mogę polecić na dłuższy pobyt.. Świetna lokalizacja, na skraju puszczy, idealna baza do wypadów pieszych lub rowerowych do puszczy. Ciepłe pokoje, smaczna kuchnia. Bardzo miła właścicielka. Czyste pokoje. Lampka przy łóżku do czytania co nie wszędzie się zdarza.",
+      "date": "2025-11-16",
+      "tags": [
+        "służbowy",
+        "Podróżujący w pojedynkę"
+      ]
+    },
+    {
+      "id": "booking-002",
+      "author": "Kinga",
+      "authorInitials": "K",
+      "rating": 4,
+      "text": "Piękne miejsce oczka wodne kaczki jest klimat",
+      "date": "2025-11-10",
+      "tags": [
+        "wakacyjny",
+        "Podróżujący ze znajomymi"
+      ]
+    },
+    {
+      "id": "booking-003",
+      "author": "Kinga",
+      "authorInitials": "K",
+      "rating": 5,
+      "text": "Obiekt czysty, zadbany , w cichej okolicy. Właściciele bardzo sympatyczni , pomocni. Jedzenie bardzo smaczne zarówno śniadania jak i dania z karty. Personel bardzo miły, uśmiechnięty:)  Bardzo dziękujemy za wspaniały wypoczynek i z pewnością wrócimy;) Ogromne wrażenie zrobiło na nas muzeum pszczelarstwa po którym oprowadził nas Gospodarz ;) Pozdrawiamy serdecznie!",
+      "date": "2025-11-08",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-004",
+      "author": "Agnieszka",
+      "authorInitials": "A",
+      "rating": 5,
+      "text": "Bardzo miła pani właścicielka. Piękny ogród i możliwość wypoczynku w nim. Cisza i spokój",
+      "date": "2025-10-04",
+      "tags": [
+        "wakacyjny",
+        "Podróżujący w pojedynkę"
+      ]
+    },
+    {
+      "id": "booking-005",
+      "author": "Małgorzata",
+      "authorInitials": "M",
+      "rating": 4,
+      "text": "Wszystko ok, czyste schludne pokoje, smaczne śniadanie.",
+      "date": "2025-08-31",
+      "tags": [
+        "wakacyjny",
+        "Grupa"
+      ]
+    },
+    {
+      "id": "booking-006",
+      "author": "Marek",
+      "authorInitials": "M",
+      "rating": 4,
+      "text": "Duży pokój, lodówka, klimatyzacja.",
+      "date": "2025-08-24",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-007",
+      "author": "Bogdan",
+      "authorInitials": "B",
+      "rating": 4,
+      "text": "Dobre miejsce do odpoczynku podczas zwiedzania okolicy.. Czyste pokoje, ładny ogród. Dobre śniadanie. Restauracja na miejscu.",
+      "date": "2025-08-19",
+      "tags": [
+        "wakacyjny",
+        "Podróżujący w pojedynkę"
+      ]
+    },
+    {
+      "id": "booking-008",
+      "author": "Konrad",
+      "authorInitials": "K",
+      "rating": 4,
+      "text": "Ogólnie fajny zadbany osrodek",
+      "date": "2025-08-17",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-009",
+      "author": "Aldona",
+      "authorInitials": "A",
+      "rating": 5,
+      "text": "Otoczenie dworu super, basen zewnętrzny, dookoła piękna zieleń altanki do posiedzenia, właścicielka przemiła, śniadania różnorodne bardzo smaczna.",
+      "date": "2025-08-16",
+      "tags": [
+        "wakacyjny",
+        "Podróżujący ze znajomymi"
+      ]
+    },
+    {
+      "id": "booking-010",
+      "author": "Beata",
+      "authorInitials": "B",
+      "rating": 5,
+      "text": "Polecam.  Dobre jedzonko,  wygodne łóżka.",
+      "date": "2025-08-09",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-011",
+      "author": "Bożena",
+      "authorInitials": "B",
+      "rating": 5,
+      "text": "Relaks wśród kwiatów. Dbałość o najdrobniejsze szczegóły. Piękny, zadbany ogród, dużo przestrzeni wokół obiektu. Fontanny, oczka wodne, mnóstwo kwiatów, drzew. Po prostu pięknie i klimatycznie, Smaczne śniadanie. Można tu miło spędzać czas od rana do wieczora",
+      "date": "2025-08-04",
+      "tags": [
+        "służbowy",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-012",
+      "author": "Marzena",
+      "authorInitials": "M",
+      "rating": 5,
+      "text": "Uważam swój pobyt w hotelu za udany, miejsce urocze, jako baza wypadowa do zwiedzania uroków Puszczy Białowieskiej.. Zagospodarowanie miejsca, pokój, obsługa, atmosfera.",
+      "date": "2025-08-04",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-013",
+      "author": "Barbara",
+      "authorInitials": "B",
+      "rating": 5,
+      "text": "Miejsce urocze, z klimatem, ludzie bardzo mili. Aż szkoda, że byłam tam krótko.",
+      "date": "2025-07-25",
+      "tags": [
+        "wakacyjny",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-014",
+      "author": "Wicz",
+      "authorInitials": "W",
+      "rating": 5,
+      "text": "Zaskakująco zagospodarowany teren, basen w trakcie rozbudowy, a mimo tego można z niego korzystać, jacuzzi zewnętrzne dostępne dla klientów, mnóstwo kwiatów i nasadzeń robią klimat, gospodarze komunikatywni i szczerze zainteresowani samopoczuciem gości. Jednym słowem SUPER",
+      "date": "2025-07-20",
+      "tags": [
+        "wakacyjny",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-015",
+      "author": "Magda",
+      "authorInitials": "M",
+      "rating": 5,
+      "text": "Polecam, miejsce, przemiłą obsługę oraz pyszne posiłki. Z pewnoscią odwiedzę ponownie Dwór Bartnika 👌",
+      "date": "2025-06-30",
+      "tags": [
+        "wakacyjny",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-016",
+      "author": "Andrzej",
+      "authorInitials": "A",
+      "rating": 5,
+      "text": "Pewniak na skraju Puszczy.. Lokalizacja,lokalna kuchnia i jakość pokoi.",
+      "date": "2025-06-30",
+      "tags": [
+        "służbowy",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-017",
+      "author": "Andrzej",
+      "authorInitials": "A",
+      "rating": 5,
+      "text": "Jak Narewka to zawsze tutaj.. Świetna obsługa i podejście wlascieli. Kapitalna kuchnia.",
+      "date": "2025-06-26",
+      "tags": [
+        "służbowy",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-018",
+      "author": "Kinga",
+      "authorInitials": "K",
+      "rating": 5,
+      "text": "Bardzo miło i pomocni gospodarze",
+      "date": "2025-06-22",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-019",
+      "author": "Michal",
+      "authorInitials": "M",
+      "rating": 5,
+      "text": "Bardzo miła obsługa . Przyjechaliśmy z kolegą na zawody rowerowe . Mogliśmy bez problemu rowery przechować w pokoju . Start mieliśmy o 6 rano a śniadanie dostarczono nam specjalnie przed samym opuszczeniem pokoju czyli okolo 4:30 rano . Pokój bardzo czysty , łóżka wygodne . Restauracja na miejscu z mega pysznym obiadem . Polecam",
+      "date": "2025-06-20",
+      "tags": [
+        "wakacyjny",
+        "Podróżujący ze znajomymi"
+      ]
+    },
+    {
+      "id": "booking-020",
+      "author": "Aleksandra",
+      "authorInitials": "A",
+      "rating": 4,
+      "text": "Miły personel, czysto. Raczej na chwilę niż na dłużej. Biały Jeleń w łazience żel i szampon - dla osób z atopową skóra super. Lodówka w pokoju. Miła obsługa. Smaczne śniadanie",
+      "date": "2025-06-03",
+      "tags": [
+        "wakacyjny",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-021",
+      "author": "Krzysztof",
+      "authorInitials": "K",
+      "rating": 5,
+      "text": "Obsługa najwyższej jakości. SUPER",
+      "date": "2025-05-04",
+      "tags": [
+        "wakacyjny",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-022",
+      "author": "Krzysztof",
+      "authorInitials": "K",
+      "rating": 5,
+      "text": "Bardzo udany pobyt. Właściciele prowadzą obiekt samodzielnie. Otoczenie obiektu stworzone z dbalością.",
+      "date": "2025-04-22",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-023",
+      "author": "Ewelina",
+      "authorInitials": "E",
+      "rating": 5,
+      "text": "Idealne miejsce na zwiedzanie Podlasia, zarówno samochodem jak i rowerem. Przemiła obsługa, wspaniali Właściciele",
+      "date": "2025-04-21",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-024",
+      "author": "Edyta",
+      "authorInitials": "E",
+      "rating": 5,
+      "text": "Wspaniali właściciele i personel, chętni do pomocy. Miejsce pełne uroku, duży teren pięknie zagospodarowany, idealny jako miejsce wypadowe po BPN.",
+      "date": "2025-12-09",
+      "tags": [
+        "wakacyjny",
+        "Rodzina z małymi dziećmi"
+      ]
+    },
+    {
+      "id": "booking-025",
+      "author": "Anonimowy (.",
+      "authorInitials": "A(",
+      "rating": 5,
+      "text": "Rewelacja. Każdemu polecam to miejsce. Ma swój jedyny i niepowtarzalny klimat. Obiekt nie jest nowoczesny, ale to tylko dodaje uroku. Czystość oraz stan w jakim jest wszystko utrzymane to klasa na najwyższym poziomie, jak w niewielu miejscach. Piękny i ogromny teren wokół budynku z wieloma miejscami do odpoczynku i małym prywatnym laskiem. Genialna okolica. Cisza i spokój. Wyśmienite śniadanie z własnymi wyrobami do skosztowania (żałuję że nie miałem okazji przetestować pełnej oferty gastronomicznej) własny miód z własnej pasieki. Rewelacja. Pani Właścicielka, przeurocza kobieta: uczynna, gościnna i dbająca o wygodę gości. Z tego miejsca pragnę serdecznie pozdrowić i podziękować za ten jakże wspaniały czas. Maciej",
+      "date": "2025-11-14",
+      "tags": [
+        "wakacyjny",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-026",
+      "author": "Anonimowy",
+      "authorInitials": "A",
+      "rating": 5,
+      "text": "Pobyt bardzo udany w przepięknym otoczeniu Puszczy Białowieskiej i architektury Podlasia. Gościnność, miła atmosfera",
+      "date": "2025-08-13",
+      "tags": [
+        "wakacyjny",
+        "Grupa"
+      ]
+    },
+    {
+      "id": "booking-027",
+      "author": "Anonimowy",
+      "authorInitials": "A",
+      "rating": 5,
+      "text": "Wspaniały. Wszystko w porządku,zero  uwag.Mila obsługa, otoczenie",
+      "date": "2025-07-12",
+      "tags": [
+        "wakacyjny",
+        "W parze"
+      ]
+    },
+    {
+      "id": "booking-028",
+      "author": "Andrzej",
+      "authorInitials": "A",
+      "rating": 5,
+      "text": "Super wypoczynek! Świetna lokalizacja, pyszne jedzenie i bardzo troskliwi gospodarze. Zdecydowanie polecam!",
+      "date": "2025-10-04",
+      "tags": [
+        "wakacyjny",
+        "Podróżujący w pojedynkę"
+      ]
+    }
+  ]
+}
