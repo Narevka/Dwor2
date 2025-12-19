@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "source": "nocowanie",
+    "sourceName": "Nocowanie.pl",
+    "sourceUrl": "https://www.nocowanie.pl/rezerwuj/960244-dwor-bartnika-narewka/",
+    "lastUpdated": "2025-12-09",
+    "rating": 9.9,
+    "ratingMax": 10,
+    "totalReviews": 6,
+    "displayedReviews": 6,
+    "updatedBy": "manual"
+  },
+  "reviews": [
+    {
+      "id": "nocowanie-001",
+      "author": "Gość",
+      "authorInitials": "G",
+      "rating": 5,
+      "text": "Piękny budynek, zachwycający ogród, ładne, czyste pokoje, miła obsługa, dobre jedzenie, przemili właściciele.",
+      "date": "2023-05-15",
+      "tags": ["Rodzina z dziećmi"]
+    },
+    {
+      "id": "nocowanie-002",
+      "author": "Gość",
+      "authorInitials": "G",
+      "rating": 5,
+      "text": "Piękne otoczenie, wystrój.",
+      "date": "2023-05-15",
+      "tags": ["Rodzina z dziećmi"]
+    },
+    {
+      "id": "nocowanie-003",
+      "author": "Anna P.",
+      "authorInitials": "AP",
+      "rating": 5,
+      "text": "Bardzo miła obsługa, pokoje czyste, bardzo smaczne, dostosowane do różnych gustów śniadanie.",
+      "date": "2023-05-15",
+      "tags": ["Para"]
+    },
+    {
+      "id": "nocowanie-004",
+      "author": "Iryna I.",
+      "authorInitials": "II",
+      "rating": 5,
+      "text": "Przytulny.",
+      "date": "2023-04-15",
+      "tags": ["Rodzina z dziećmi"]
+    },
+    {
+      "id": "nocowanie-005",
+      "author": "Mieczysław G.",
+      "authorInitials": "MG",
+      "rating": 5,
+      "text": "Położenie. Wygląd podwórza: ogród, ule, oczka wodne.",
+      "date": "2022-09-15",
+      "tags": ["Para"]
+    },
+    {
+      "id": "nocowanie-006",
+      "author": "Gość",
+      "authorInitials": "G",
+      "rating": 5,
+      "text": "Czystość, mili właściciele i obsługa, jedzenie.",
+      "date": "2022-08-15",
+      "tags": ["Rodzina z dziećmi"]
+    }
+  ]
+}
+

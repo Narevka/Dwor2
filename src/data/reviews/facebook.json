@@ -1,0 +1,415 @@
+{
+  "_meta": {
+    "source": "facebook",
+    "sourceName": "Facebook",
+    "sourceUrl": "https://www.facebook.com/DworBartnikaPuszczaBialowieska/reviews",
+    "lastUpdated": "2025-12-09",
+    "totalReviews": 78,
+    "rating": 4.6,
+    "ratingMax": 5,
+    "updatedBy": "dev"
+  },
+  "reviews": [
+    {
+      "id": "fb-001",
+      "author": "Małgorzata A.",
+      "authorInitials": "MA",
+      "rating": 5,
+      "text": "Piękny i wygodny apartament z jacuzzi na wyłączność spełnił nasze oczekiwania. Przesympatyczni właściciele, gdzie w dzisiejszych czasach rzadko spotyka się już takich ludzi, miła obsługa i fantastyczna kuchnia. Na pewno jeszcze skorzystamy nie raz. Dziękujemy!",
+      "date": "2025-07-15",
+      "tags": ["Apartament z jacuzzi", "Obsługa", "Kuchnia"]
+    },
+    {
+      "id": "fb-002",
+      "author": "Robert S.",
+      "authorInitials": "RS",
+      "rating": 5,
+      "text": "Trafiliśmy w to miejsce przez przypadek, córka zrobiła rezerwację i tak oto byliśmy z wczoraj na dziś. Nie mogliśmy wyjechać bo klimat jest tak super, jedzenie bardzo dobre...",
+      "date": "2024-07-21",
+      "tags": ["Klimat", "Jedzenie"]
+    },
+    {
+      "id": "fb-003",
+      "author": "Barbara St.",
+      "authorInitials": "BS",
+      "rating": 5,
+      "text": "Mieliśmy dziś przyjemność odwiedzić ciekawe muzeum pszczelarstwa pasjonata właściciela Pana Eugeniusza. Smacznie zjedliśmy, przemiła obsługa, polecam serdecznie. Puszcza Białowieska zaprasza i czeka na gości!",
+      "date": "2022-07-12",
+      "tags": ["Muzeum", "Jedzenie", "Obsługa"]
+    },
+    {
+      "id": "fb-004",
+      "author": "Piotr R.",
+      "authorInitials": "PR",
+      "rating": 5,
+      "text": "Przede wszystkim bardzo mili i wyrozumiali właściciele, bardzo miła obsługa, bardzo dobre jedzenie a przede wszystkim klimat. Gorąco polecam!",
+      "date": "2022-02-22",
+      "tags": ["Właściciele", "Obsługa", "Klimat"]
+    },
+    {
+      "id": "fb-005",
+      "author": "Marcin M.",
+      "authorInitials": "MM",
+      "rating": 5,
+      "text": "Polecam. Obsługa i warunki fantastyczne.",
+      "date": "2022-02-22",
+      "tags": ["Obsługa"]
+    },
+    {
+      "id": "fb-006",
+      "author": "Ewa C.",
+      "authorInitials": "EC",
+      "rating": 5,
+      "text": "Piękne miejsce. Wspaniali Właściciele. Pyszne jedzenie. Polecam z całego serca.",
+      "date": "2021-12-12",
+      "tags": ["Właściciele", "Jedzenie"]
+    },
+    {
+      "id": "fb-007",
+      "author": "Magda P.",
+      "authorInitials": "MP",
+      "rating": 5,
+      "text": "Pyszne jedzenie, bardzo miła obsługa, fajna atmosfera, ładne przestronne pokoje. Serdecznie polecam!",
+      "date": "2021-08-15",
+      "tags": ["Jedzenie", "Obsługa", "Pokoje"]
+    },
+    {
+      "id": "fb-008",
+      "author": "Anna M.",
+      "authorInitials": "AM",
+      "rating": 5,
+      "text": "Wspaniałe miejsce do wypoczynku, wyśmienite wyżywienie, bardzo mili właściciele, serwis, wspaniała atmosfera. Warto to miejsce odwiedzić. Polecamy!",
+      "date": "2021-08-09",
+      "tags": ["Wypoczynek", "Wyżywienie", "Właściciele"]
+    },
+    {
+      "id": "fb-009",
+      "author": "Ewa G.",
+      "authorInitials": "EG",
+      "rating": 5,
+      "text": "Piękne miejsce do odpoczynku. Bogactwo różnorodnych roślin ogrodowych. Fontanny. Ławeczki. Sauna. Uloterapia. Tarasy zewnętrzne i wiele innych atrakcji. Restauracja z pysznym jedzeniem. Bardzo sympatyczni właściciele obiektu.",
+      "date": "2021-06-30",
+      "tags": ["Ogród", "Sauna", "Restauracja", "Właściciele"]
+    },
+    {
+      "id": "fb-010",
+      "author": "Laura Ż.",
+      "authorInitials": "LŻ",
+      "rating": 5,
+      "text": "Wspaniali Gospodarze! Pyszne jedzenie a wszystko to w otoczeniu przyrody niczym z ogrodu botanicznego. Gościnność cudowna i pysznie. I ceny umiarkowane...",
+      "date": "2021-05-30",
+      "tags": ["Gospodarze", "Jedzenie", "Przyroda", "Ceny"]
+    },
+    {
+      "id": "fb-011",
+      "author": "Paweł B.",
+      "authorInitials": "PB",
+      "rating": 5,
+      "text": "Świetne miejsce... rewelacyjne jedzenie... 2,5 hektara do zabaw dla dzieci... punkt obowiązkowy podczas wypadów w okolice Hajnówki i Siemianówki.",
+      "date": "2020-08-16",
+      "tags": ["Jedzenie", "Dla dzieci", "Lokalizacja"]
+    },
+    {
+      "id": "fb-012",
+      "author": "Maciej K.",
+      "authorInitials": "MK",
+      "rating": 5,
+      "text": "Super miejsce, obsługa na najwyższym poziomie i atmosfera rewelacyjna!",
+      "date": "2020-08-15",
+      "tags": ["Obsługa", "Atmosfera"]
+    },
+    {
+      "id": "fb-013",
+      "author": "Kuba W.",
+      "authorInitials": "KW",
+      "rating": 5,
+      "text": "Mili właściciele, obsługa, kuchnia pyszna. Nic, tylko polecić innym!",
+      "date": "2020-07-30",
+      "tags": ["Właściciele", "Obsługa", "Kuchnia"]
+    },
+    {
+      "id": "fb-014",
+      "author": "Damian P.",
+      "authorInitials": "DP",
+      "rating": 5,
+      "text": "Super pobyt. Bardzo miło spędzony czas. Super obsługa. Super właściciele. Duża dawka historii pszczelarstwa... Gorąco polecam.",
+      "date": "2020-07-21",
+      "tags": ["Pobyt", "Obsługa", "Właściciele", "Muzeum"]
+    },
+    {
+      "id": "fb-015",
+      "author": "Krzysztof K.",
+      "authorInitials": "KK",
+      "rating": 5,
+      "text": "Bardzo sympatyczna obsługa. Czysto w pokojach. Smaczne jedzenie. Polecam ten hotel!",
+      "date": "2020-06-21",
+      "tags": ["Obsługa", "Pokoje", "Jedzenie"]
+    },
+    {
+      "id": "fb-016",
+      "author": "Tomasz P.",
+      "authorInitials": "TP",
+      "rating": 5,
+      "text": "Warto tam być. Dla okolicy, jedzenia, odpoczynku. A przede wszystkim dla zapoznania się z właścicielami, którzy są przemili i obecni wśród gości przez cały czas. Polecam!",
+      "date": "2019-11-12",
+      "tags": ["Okolica", "Jedzenie", "Właściciele"]
+    },
+    {
+      "id": "fb-017",
+      "author": "Anna K.",
+      "authorInitials": "AK",
+      "rating": 5,
+      "text": "Pyszna regionalna kuchnia.",
+      "date": "2019-11-11",
+      "tags": ["Kuchnia regionalna"]
+    },
+    {
+      "id": "fb-018",
+      "author": "Katarzyna L.",
+      "authorInitials": "KL",
+      "rating": 5,
+      "text": "Piękne miejsce, pyszne jedzenie, urocze wnętrze... miła obsługa i tak niedaleko domu. Jestem bardzo mile zaskoczona. Wrócę z pewnością... Polecam!",
+      "date": "2019-11-11",
+      "tags": ["Jedzenie", "Wnętrze", "Obsługa"]
+    },
+    {
+      "id": "fb-019",
+      "author": "Anna C.",
+      "authorInitials": "AC",
+      "rating": 5,
+      "text": "Spędzony weekend w Dworze Bartnika to super odpoczynek. Wszystko było wspaniałe - pokój, jedzenie i piękne widoki. Bardzo sympatyczni Gospodarze. Wreszcie można spróbować dań kuchni regionalnej. Brawo, polecam i chętnie tam wrócę!",
+      "date": "2019-08-19",
+      "tags": ["Weekend", "Pokój", "Jedzenie", "Kuchnia regionalna"]
+    },
+    {
+      "id": "fb-020",
+      "author": "Ewa J.",
+      "authorInitials": "EJ",
+      "rating": 5,
+      "text": "Tutto super meraviglioso. Gentilissimi e cordiali. Sono amanti delle api - super museo da vedere. La passione che hanno è indescrivibile. Ringrazio tantissimo per le attenzioni e cure. Grazie mille per tutto.",
+      "date": "2019-08-11",
+      "tags": ["Muzeum", "Obsługa"],
+      "language": "it"
+    },
+    {
+      "id": "fb-021",
+      "author": "Małgorzata R.",
+      "authorInitials": "MR",
+      "rating": 5,
+      "text": "Wspaniałe miejsce na wypoczynek. Bardzo mili właściciele, pyszne jedzenie, cudownie spędzony czas wśród pięknie urządzonych pomieszczeń i otoczenia dworu. Polecam gorąco to miejsce miłośnikom pszczelarstwa - na pewno będą się dobrze czuli.",
+      "date": "2019-08-04",
+      "tags": ["Wypoczynek", "Właściciele", "Jedzenie", "Pszczelarstwo"]
+    },
+    {
+      "id": "fb-022",
+      "author": "Ainelka T.",
+      "authorInitials": "AT",
+      "rating": 5,
+      "text": "Polecam - pyszne jedzenie, cudowne miejsce, profesjonalna obsługa, przemili właściciele i bardzo pomocni w organizacji ślubu! Goście weselni zachwyceni. Z całego serca polecam!",
+      "date": "2019-07-22",
+      "tags": ["Jedzenie", "Obsługa", "Wesele"]
+    },
+    {
+      "id": "fb-023",
+      "author": "Marlena M.",
+      "authorInitials": "MM",
+      "rating": 5,
+      "text": "Miejsce godne polecenia! Dziękuję za pomoc w przygotowaniu niespodzianki. Gospodarze pomocni, mili, z pasją przekazują swoją wiedzę. Jedzonko smaczne, pokoje czyste. POLECAM!",
+      "date": "2019-05-02",
+      "tags": ["Gospodarze", "Jedzenie", "Pokoje"]
+    },
+    {
+      "id": "fb-024",
+      "author": "Wanda S.",
+      "authorInitials": "WS",
+      "rating": 5,
+      "text": "Serdeczne podziękowania za wspaniałą gościnność i profesjonalną obsługę. Bezcennie spędzony czas w pięknych okolicznościach przyrody. Polecam każdemu kto chce wypocząć w ciszy i spokoju.",
+      "date": "2019-04-25",
+      "tags": ["Gościnność", "Obsługa", "Przyroda", "Cisza"]
+    },
+    {
+      "id": "fb-025",
+      "author": "Leila H.",
+      "authorInitials": "LH",
+      "rating": 5,
+      "text": "Very nice atmosphere, sweet people and I really liked the way hotel was decorated. It was almost like museum.",
+      "date": "2019-02-09",
+      "tags": ["Atmosfera", "Wystrój"],
+      "language": "en"
+    },
+    {
+      "id": "fb-026",
+      "author": "Paulina N.",
+      "authorInitials": "PN",
+      "rating": 5,
+      "text": "Niesamowite miejsce, chciałabym polecić wszystkim z całego serca. Właściciele są wspaniałymi ludźmi, wielki szacunek i ciepłe słowa uznania. Miła obsługa, jedzenie przepyszne, ciepłe i przytulne miejsce, magiczny ogród. Polecam na większe uroczystości a także na niedzielne rodzinne obiady i wakacje!",
+      "date": "2018-10-25",
+      "tags": ["Właściciele", "Obsługa", "Jedzenie", "Ogród", "Uroczystości"]
+    },
+    {
+      "id": "fb-027",
+      "author": "Katarzyna R.",
+      "authorInitials": "KR",
+      "rating": 5,
+      "text": "Mimo iż pochodzę z tych stron, to nie miałam okazji tam gościć, aż do wczoraj. Piękne miejsce, miła obsługa, jedzenie pyszne! Po prostu the best!",
+      "date": "2018-09-09",
+      "tags": ["Obsługa", "Jedzenie"]
+    },
+    {
+      "id": "fb-028",
+      "author": "Tomasz I.",
+      "authorInitials": "TI",
+      "rating": 5,
+      "text": "Wszystko jest tak jak trzeba - smaczne jedzenie, mega plac zabaw i lasek ze ścieżkami. Na prawdę super miejsce, polecam dla całych rodzin!",
+      "date": "2018-08-12",
+      "tags": ["Jedzenie", "Plac zabaw", "Dla rodzin"]
+    },
+    {
+      "id": "fb-029",
+      "author": "Paula R.",
+      "authorInitials": "PR",
+      "rating": 5,
+      "text": "Great place ran by great people. Located in a beautiful place. People are really nice and helpful.",
+      "date": "2018-08-08",
+      "tags": ["Lokalizacja", "Obsługa"],
+      "language": "en"
+    },
+    {
+      "id": "fb-030",
+      "author": "Anna L.",
+      "authorInitials": "AL",
+      "rating": 5,
+      "text": "Rewelacyjna obsługa, piękne pokoje, cisza, spokój, szum fontanny i owadzich skrzydeł, najlepszy miód jaki jadłyśmy, mnóstwo atrakcji. Wszystko można ustalić i dopasować, niezwykle elastyczne i troskliwe kierownictwo. Jak najbardziej polecam.",
+      "date": "2018-07-06",
+      "tags": ["Obsługa", "Pokoje", "Cisza", "Miód", "Atrakcje"]
+    },
+    {
+      "id": "fb-031",
+      "author": "Grzegorz H.",
+      "authorInitials": "GH",
+      "rating": 5,
+      "text": "Tylko ten kto zatrzyma się w tym pięknym, zadbanym dworze, z miłą obsługą, smaczną kuchnią - dopiero sam się przekona że to wszystko jest w super standardzie. Ludzie nie udają miłych, a i kasy nie wydacie za wiele. Polecam po 100 kroć wszystkim ceniącym sobie profesjonalizm a zarazem miłą atmosferę!",
+      "date": "2018-06-08",
+      "tags": ["Obsługa", "Kuchnia", "Ceny", "Atmosfera"]
+    },
+    {
+      "id": "fb-032",
+      "author": "Tomasz G.",
+      "authorInitials": "TG",
+      "rating": 5,
+      "text": "Grałem tam na weselu - wspaniała okolica no i sam dwór, który wywarł na mnie pozytywne wrażenie.",
+      "date": "2018-01-08",
+      "tags": ["Wesele", "Okolica"]
+    },
+    {
+      "id": "fb-033",
+      "author": "Marek D.",
+      "authorInitials": "MD",
+      "rating": 5,
+      "text": "Mieliśmy zaszczyt spędzić Sylwestra w Dworze Bartnika. Dbałość o gościa wprost niewiarygodna. Wspaniałe spędzone chwile! Najszczerzej polecam! A zareko... NIE DO PRZEJEDZENIA! Wrócimy tam!",
+      "date": "2018-01-01",
+      "tags": ["Sylwester", "Obsługa", "Jedzenie"]
+    },
+    {
+      "id": "fb-034",
+      "author": "Manuel A.",
+      "authorInitials": "MA",
+      "rating": 5,
+      "text": "Nice place and good food.",
+      "date": "2017-03-07",
+      "tags": ["Jedzenie"],
+      "language": "en"
+    },
+    {
+      "id": "fb-035",
+      "author": "Adam A.",
+      "authorInitials": "AA",
+      "rating": 5,
+      "text": "Świetne miejsce, wracam przynajmniej dwa razy do roku aby odpocząć od zgiełku miasta. Bardzo ludzcy właściciele, super dziewczyny czyli kelnerzy na sali. Na pewno wrócę!",
+      "date": "2017-03-05",
+      "tags": ["Wypoczynek", "Właściciele", "Obsługa"]
+    },
+    {
+      "id": "fb-036",
+      "author": "Robert P.",
+      "authorInitials": "RP",
+      "rating": 5,
+      "text": "Doskonałe miejsce i super obsługa. Dobrze karmią i poją miodami.",
+      "date": "2017-01-05",
+      "tags": ["Obsługa", "Jedzenie", "Miód"]
+    },
+    {
+      "id": "fb-037",
+      "author": "Justyna K.",
+      "authorInitials": "JK",
+      "rating": 5,
+      "text": "Super miejsce na wypoczynek i zabawę. Byliśmy na sylwestra - było naprawdę świetnie pod każdym względem! Dzieciaki też ubawiły się na maxa. Wszyscy zadowoleni. Gospodarze przemili! Spełniali nasze wszelkie zachcianki. Bardzo podobała nam się również wizyta w muzeum pszczelarstwa. Pyszne miody. POLECAMY!",
+      "date": "2017-01-01",
+      "tags": ["Sylwester", "Dla dzieci", "Gospodarze", "Muzeum", "Miód"]
+    },
+    {
+      "id": "fb-038",
+      "author": "Henryk G.",
+      "authorInitials": "HG",
+      "rating": 5,
+      "text": "Narewka - Dwór Bartnika, spokojny i miły wypoczynek, domowa kuchnia jak również wspaniałe miody - Puszcza Białowieska - jestem tam co rok - polecam!",
+      "date": "2016-11-23",
+      "tags": ["Wypoczynek", "Kuchnia", "Miód"]
+    },
+    {
+      "id": "fb-039",
+      "author": "Krzysztof S.",
+      "authorInitials": "KS",
+      "rating": 5,
+      "text": "Bardzo piękne miejsce, serdecznie polecam.",
+      "date": "2016-10-14",
+      "tags": []
+    },
+    {
+      "id": "fb-040",
+      "author": "Maciej C.",
+      "authorInitials": "MC",
+      "rating": 5,
+      "text": "Świetne miejsce prowadzone przez ludzi z pasją. Na pewno jeszcze tam wrócimy.",
+      "date": "2016-08-21",
+      "tags": ["Właściciele"]
+    },
+    {
+      "id": "fb-041",
+      "author": "Maria K.",
+      "authorInitials": "MK",
+      "rating": 5,
+      "text": "Bardzo fajne miejsce na relaks, imprezy i spotkania. Właściciele przemili, obsługa super. Polecam!",
+      "date": "2016-07-11",
+      "tags": ["Relaks", "Imprezy", "Właściciele", "Obsługa"]
+    },
+    {
+      "id": "fb-042",
+      "author": "Kasia G.",
+      "authorInitials": "KG",
+      "rating": 5,
+      "text": "Wspaniałe miejsce, cudowni gospodarze, pyszne domowe jedzenie, doskonałe śniadania. Zawitaliśmy tam już dwa razy i na pewno wrócimy - absolutnie domowa atmosfera!",
+      "date": "2016-05-30",
+      "tags": ["Gospodarze", "Jedzenie", "Śniadania", "Atmosfera"]
+    },
+    {
+      "id": "fb-043",
+      "author": "Marzena T.",
+      "authorInitials": "MT",
+      "rating": 5,
+      "text": "Pięknie, cicho, błogo i przyjemnie - to moje pierwsze skojarzenie. Jedzenie pyszne a obsługa bardzo miła.",
+      "date": "2016-05-18",
+      "tags": ["Cisza", "Jedzenie", "Obsługa"]
+    },
+    {
+      "id": "fb-044",
+      "author": "Tomasz S.",
+      "authorInitials": "TS",
+      "rating": 5,
+      "text": "Super miejsce na wypoczynek. Gorąco polecam!",
+      "date": "2017-05-03",
+      "tags": ["Wypoczynek"]
+    }
+  ]
+}
+
